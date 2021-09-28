@@ -1,0 +1,16 @@
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\EjecutableMDI.exe.config
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\EjecutableMDI.exe
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\EjecutableMDI.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\CapaVista.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\CapaVista.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.Properties.Resources.resources
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.csproj.GenerateResource.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.csproj.CopyComplete
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.exe
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\obj\Debug\EjecutableMDI.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\CapaControlador.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\CapaModelo.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\CapaControlador.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\EjecutableMDI\EjecutableMDI\bin\Debug\CapaModelo.pdb

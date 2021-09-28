@@ -1,0 +1,16 @@
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMantenimientoCompras.resources
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMantenimientoProveedores.resources
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMDI.resources
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaVista\bin\Debug\CapaModelo.pdb

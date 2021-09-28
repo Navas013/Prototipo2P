@@ -1,0 +1,6 @@
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\kikhe\OneDrive\Escritorio\Segundo parcial\Prototipo2P\Parcial 2\Combointeligente2\CapaModelo\obj\Debug\CapaModelo.pdb
